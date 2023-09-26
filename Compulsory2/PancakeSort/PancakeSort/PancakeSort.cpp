@@ -1,6 +1,7 @@
 #include <iostream>
 #include <vector>
 #include <algorithm>
+#include <chrono>
 
 using namespace std;
 
@@ -52,6 +53,7 @@ void pancakeSortRecursive(vector<int>& array, int n)
 
 int main() 
 {
+    auto start = chrono::high_resolution_clock::now();
     vector<int> array = {};
     // Create array with 10 elements
     //for (int i = 0; i < 10; i++)
@@ -97,6 +99,10 @@ int main()
         cout << num << " ";
     }
     cout << endl;
+    cout << endl;
+
+    auto end = chrono::high_resolution_clock::now();
+    cout << "Time taken " << chrono::duration_cast<chrono::milliseconds>((end)-(start)).count() << " ms" << endl;
 
     return 0;
 }
