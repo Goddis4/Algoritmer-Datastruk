@@ -1,0 +1,4 @@
+﻿  Compulsory1.cpp
+C:\Users\gardo\source\repos\Compulsory1\Compulsory1\Compulsory1.cpp(21,12): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+C:\Users\gardo\source\repos\Compulsory1\Compulsory1\Compulsory1.cpp(35,12): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+  Compulsory1.vcxproj -> C:\Users\gardo\source\repos\Compulsory1\x64\Debug\Compulsory1.exe
