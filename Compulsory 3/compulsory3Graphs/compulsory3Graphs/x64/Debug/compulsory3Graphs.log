@@ -1,0 +1,11 @@
+﻿  graphs.cpp
+C:\Users\gardo\Documents\HINN skole\3. semester\Algoritmer og Datastruktur\Compulsory 3\compulsory3Graphs\compulsory3Graphs\graphs.cpp(68,1): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\gardo\Documents\HINN skole\3. semester\Algoritmer og Datastruktur\Compulsory 3\compulsory3Graphs\compulsory3Graphs\graphs.cpp(73,1): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\gardo\Documents\HINN skole\3. semester\Algoritmer og Datastruktur\Compulsory 3\compulsory3Graphs\compulsory3Graphs\graphs.cpp(122,1): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\gardo\Documents\HINN skole\3. semester\Algoritmer og Datastruktur\Compulsory 3\compulsory3Graphs\compulsory3Graphs\graphs.cpp(143,1): warning C4267: 'argument': conversion from 'size_t' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=int
+          ]
+C:\Users\gardo\Documents\HINN skole\3. semester\Algoritmer og Datastruktur\Compulsory 3\compulsory3Graphs\compulsory3Graphs\graphs.cpp(146,1): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  compulsory3Graphs.vcxproj -> C:\Users\gardo\Documents\HINN skole\3. semester\Algoritmer og Datastruktur\Compulsory 3\compulsory3Graphs\x64\Debug\compulsory3Graphs.exe
